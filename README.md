@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkatesh SM</h1>
+<h1 align="center">Hi 👋, I'm Venkatesh</h1>
 <h3 align="center">Full-Stack Developer | React | React-Native | Flutter | Swift(iOS) | Android | AWS | Node</h3>
 
 💬 Ask me about **React, React Native,Nodejs & Mongodb**
